@@ -1,0 +1,31 @@
+.grid{
+     display:flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    border: solid;
+    
+}
+
+.title {
+     text-align: center;
+     font-size: 20px;
+}
+
+
+.Origami {
+     border-radius:20px;
+     background-color: white;
+
+     width:310px;
+     font-family: fantasy;
+}
+
+
+.grid img{
+     border:2px solid black;
+      border-radius: 50px;
+}
+
+body{
+     background-color: whitesmoke;
+}
